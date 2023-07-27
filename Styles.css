@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+     text-align:center;
+     margin-left: 10%;
+     margin-right: 10%;
+     background-color: #C4DFDF;
+
+}
+
+
+.bookCovers{
+    height:250px;
+    width:auto;
+}
+
+ul  {
+
+    text-align: center;
+    padding: 0;
+
+}
+
+ul  {
+
+    list-style-type: none;
+
+}
+
+.educationAndSchool {
+    margin: 0 auto;
+}
+.educationAndSchool td {
+    padding: 0 30px 0 30px;
+    width: 300px;
+}
+
+h1 {
+    color:coral;
+    font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+    color: darksalmon;
+    font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+    color:slategrey;
+    font-family: 'Indie Flower', cursive;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+li {
+    font-family: 'Indie Flower', cursive;
+}
+
+.aboutMeDescription  {
+    display: flex;
+    
+}
+
+.myHobbiesDescription {
+    display: flex;
+    
+}
+.aboutMeText {
+    text-align: left;
+    padding-left: 5%;
+}
+.hobbiesText {
+    text-align: right;
+    padding-right: 5%;
+}
+.aboutMeTitle {
+    text-align: left;
+    font-size: 30px;
+}
+.myHobbiesTitle {
+    text-align: right;
+    font-size: 30px;
+}
+.skillsTitle {
+    text-align: center;
+    font-size: 30px;
+}
+
+hr {
+    border: dotted 6px;
+    border-bottom: none;
+    color: coral;
+    width: 10%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.linkForInfo {
+    font-family: 'Indie Flower', cursive;
+}
